@@ -806,7 +806,7 @@ a {
     min-width: 40px;
 }
 
-..account-info {
+.account-info {
     font-size: 14px;
     color: #555;
     flex: 1;

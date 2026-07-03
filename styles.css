@@ -806,11 +806,15 @@ a {
     min-width: 40px;
 }
 
-.account-info {
+..account-info {
     font-size: 14px;
     color: #555;
     flex: 1;
     letter-spacing: 0.3px;
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 .account-item .copy-btn {

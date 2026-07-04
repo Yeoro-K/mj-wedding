@@ -411,6 +411,7 @@ a {
 
 .story-text {
     max-width: 90%;
+   text-align: center;
 }
 
 .story-text h2 {

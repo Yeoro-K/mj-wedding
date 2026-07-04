@@ -410,10 +410,9 @@ a {
 }
 
 .story-text {
-    text-align: center;
-    max-width: 90%;
+    max-width: 100%;
     width: 100%;
-    margin-bottom: 30px;
+    padding: 0 4px;
 }
 
 .story-text h2 {

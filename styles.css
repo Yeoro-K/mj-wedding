@@ -420,6 +420,7 @@ a {
     margin-bottom: 25px;
     color: #2c2c2c;
     white-space: nowrap;
+   font-size: clamp(17px, 4vw, 20px);
 }
 
 .story-text p {

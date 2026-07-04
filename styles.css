@@ -411,7 +411,8 @@ a {
 
 .story-text {
     text-align: center;
-    max-width: 400px;
+    max-width: 90%;
+    width: 100%;
     margin-bottom: 30px;
 }
 
@@ -420,6 +421,7 @@ a {
     font-weight: 400;
     margin-bottom: 25px;
     color: #2c2c2c;
+    white-space: nowrap;
 }
 
 .story-text p {
